@@ -4,8 +4,7 @@ function division(number, dividedBy) {
   if (dividedBy > 0) {
     let division = number / dividedBy;
     return division;
-  }
-  else{
+  } else {
     return 0;
   }
 }
