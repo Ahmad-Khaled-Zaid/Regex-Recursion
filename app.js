@@ -21,5 +21,5 @@ let str = " dogs kep fight w4ith cats";
 // /\[fc]at/g will get any words start with f or c and ends with at
 
 // console.log(regex.test(str));
-let x;
-console.log(x);
+// let x;
+// console.log(x);
